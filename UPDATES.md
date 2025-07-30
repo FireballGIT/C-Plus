@@ -1,4 +1,4 @@
-#Updates  
+Updates  
 The update log for C+  
 ---
 #UPDATE LOG:
