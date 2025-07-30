@@ -8,5 +8,5 @@ Alpha 1.0
 Version ID: 483988562A-CPLUSLANG
 ---
 ## Latest Update
-Finished (parser)[parser.py] and (lexer)[lexer.py]
-See full update log (here)[UPDATES.md]
+Finished [parser](parser.py) and [lexer](lexer.py)
+See full update log [here](updates.md)
