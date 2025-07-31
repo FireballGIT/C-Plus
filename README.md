@@ -7,6 +7,8 @@ Version:
 Alpha 1.0  
 Version ID: 483988562A-CPLUSLANG  
 ---
+Please read the [artifact page](ARTIFACTS.md)
+
 ## Latest Update
 Finished [parser](parser.py) and [lexer](lexer.py)  
 See full update log [here](UPDATES.md)  
