@@ -2,7 +2,7 @@ class Version:
     def __init__(self):
         self.version = ""
 
-    def update_version(self, new_version: int, state: int) -> str:
+    def update_version(self, new_version: float, state: int) -> str:
         match state:
             case 1:
                 state_str = "Alpha"
