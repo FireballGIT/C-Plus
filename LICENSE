@@ -1,36 +1,11 @@
-BSS/H LICENSE – FORMAT S  
-(BAG Studios Software/Hardware License — Software Format)  
-Version 1.0 • Issued August 1, 2025
+MIT License
 
-Copyright (C) 2025 BAG Studios  
-For use with the C+ Programming Language
+Copyright (c) 2025 BAG Studios' C Plus
 
----
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rightsto use, copy, modify, merge, publish, distribute, sublicense, and/or sellcopies of the Software, and to permit persons to whom the Software isfurnished to do so, subject to the following conditions:
 
-This software ("Software") is provided free of charge under the following terms:
+The above copyright notice and this permission notice shall be included inall copies or substantial portions of the Software.
 
-1. **Attribution Required**  
-   Proper credit must be given to BAG Studios and the original authors of this Software in all distributed forms.
-
-2. **No Plagiarized Distribution**  
-   You may not redistribute this Software in any form that misrepresents its origin, authorship, or licensing status.
-
-3. **Editing Restrictions**  
-   The official distribution of this Software — including its artefacts and core components — may not be modified, edited, or repackaged without explicit written or digital permission from the Author(s).
-
-4. **Core Artefact Integrity**  
-   The following files are considered core protected artefacts of the C+ language:
-   - `version.py`
-   - `lexer.py`
-   - `parser.py`
-   - `interpreter.py`
-
-5. **Disclaimer**  
-   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.  
-   USE OF THIS SOFTWARE IS SUBJECT TO THE RULES OF THE BSS/H LICENSE — FORMAT S.  
-   FAILURE TO COMPLY MAY RESULT IN LEGAL ACTION OR REMOVAL OF ACCESS.
-
----
-
-For questions, permissions, or inquiries, contact:
-     fireball.bagstudiosofficial@gmail.com
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS ORIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THEAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHERLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS INTHE SOFTWARE.
